@@ -22,7 +22,7 @@ A simple C# Console Application to manage a library database using SQL Server. T
 1. **Clone or Download Repository**
     - Open terminal/cmd and run:
       ```
-      git clone https://github.com/<your-username>/LibraryManagerSQLProject.git
+      git clone https://github.com/SHUBHANGI11gaikwad/LibraryManagerSQLProject.git
       ```
 2. **Open in Visual Studio**
     - Double-click `.sln` file or open Folder in VS.
